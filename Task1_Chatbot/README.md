@@ -46,7 +46,7 @@ The `commands.py` file contains the core functionality for handling user command
 ## Project Structure
 
 **CodSoft Repo**
-- **NOVA.py**: Main application file containing the Tkinter GUI and core logic.
+- **NOVA.pyw**: Main application file containing the Tkinter GUI and core logic. (pyw extension to open app without terminal window)
 - **commands.py**: Module with command functions used by NOVA.
 - **README.md**: This file.
 
