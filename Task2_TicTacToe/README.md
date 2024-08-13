@@ -1,5 +1,9 @@
 # TicTacToe v1.3
 
+# HOW TO START THE PROGRAM
+- Download the .zip file of this repository
+- Run the **TicTacToe*.pyw* file to run the TicTacToe game
+
 ## Overview
 Tic-Tac-Toe is a classic 3x3 grid game where you play as 'X' against an AI opponent that plays as 'O'. The game supports different difficulty levels for the AI: Easy, Medium, and Hard. 
 
@@ -8,7 +12,6 @@ Tic-Tac-Toe is a classic 3x3 grid game where you play as 'X' against an AI oppon
 - **AI Difficulty Levels**: Choose between Easy, Medium, and Hard difficulties.
 - **Reset Game**: Reset the game to start a new match.
 - **Help Menu**: Provides instructions on how to play the game.
-
 
 
 ## Project Structure
