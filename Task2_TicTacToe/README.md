@@ -20,7 +20,7 @@ Tic-Tac-Toe is a classic 3x3 grid game where you play as 'X' against an AI oppon
 - **TicTacToe.pyw**: Main application file containing the Tkinter GUI and core logic. (pyw extension to open app without terminal window)
 - **gameEngine.py**: Module with minimax algorithm used by the game.
 - **-.png**: image for empty cell
-- **.png**: image for cell with O
+- **o.png**: image for cell with O
 - **x.png**: image for cell with X
 - **README.md**: This file.
 
