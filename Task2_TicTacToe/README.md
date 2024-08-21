@@ -14,6 +14,18 @@ Tic-Tac-Toe is a classic 3x3 grid game where you play as 'X' against an AI oppon
 - **Help Menu**: Provides instructions on how to play the game.
 
 
+## Dependencies
+
+- `tkinter` - For creating the graphical user interface.
+
+### Installation
+
+You can install the necessary libraries using pip. Run the following command in your terminal:
+
+```bash
+pip tkinter
+```
+
 ## Project Structure
 
 **CodSoft Repo**
