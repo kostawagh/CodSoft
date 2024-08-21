@@ -4,6 +4,28 @@
 
 NOVA is a Python-based digital personal assistant with a GUI made using Tkinter. It is designed to handle various user inputs and provide responses. This project showcases practical implementations of AI and some basic natural language processing features. NOVA includes functionalities such as time-based greetings, typo correction, Wikipedia search, and more.
 
+## Dependencies
+
+This project uses the following Python libraries:
+
+- `tkinter` - Used for creating the graphical user interface (GUI).
+- `scrolledtext` - A part of tkinter for text area with scroll functionality.
+- `random` - Used for random selection of responses.
+- `wikipedia` - For Wikipedia searches.
+- `sympy` - For the calculator functionality.
+- `commands` - Your custom module containing various command functions.
+- `datetime` - For handling date and time functionalities.
+- `webbrowser` - For opening websites.
+- `textblob` - For text correction and natural language processing.
+- `warnings` - To filter out specific warnings, especially related to the wikipedia library.
+
+### Installation
+You can install the necessary libraries using pip. Run the following command in your terminal:
+
+```bash
+pip install wikipedia sympy textblob
+```
+
 
 ## Features
 
