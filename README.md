@@ -1,6 +1,4 @@
-# CodSoft Internship Projects
-
-Welcome to the **CodSoft Internship Projects** repository! 🎓✨ This repository showcases the projects I completed during my Artificial Intelligence internship with [CodSoft]([https://www.codsoft.in/]). Each project is a unique implementation of various AI techniques and serves as a testament to the skills and knowledge gained during the internship.
+# Summer_Projects
 
 ## Projects Overview
 
